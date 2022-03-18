@@ -1,0 +1,12 @@
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\bin\Debug\net6.0\MarysApp.Repository.deps.json
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\bin\Debug\net6.0\MarysApp.Repository.dll
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\bin\Debug\net6.0\MarysApp.Repository.pdb
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.AssemblyInfo.cs
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.dll
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\refint\MarysApp.Repository.dll
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\MarysApp.Repository.pdb
+C:\ElevenFiftyAcademy129\cSharpRecap\MarysApp.Repository\obj\Debug\net6.0\ref\MarysApp.Repository.dll

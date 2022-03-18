@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MarysApp.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MarysApp.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarysApp.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MarysApp.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MarysApp.Repository/MarysApp.Repository.csproj",
+      "msbuildProject": "../MarysApp.Repository/MarysApp.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MarysApp.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Mary C\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\ElevenFiftyAcademy129\\cSharpRecap\\MarysApp.Repository\\MarysApp.Repository.csproj": {
+              "projectPath": "C:\\ElevenFiftyAcademy129\\cSharpRecap\\MarysApp.Repository\\MarysApp.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
